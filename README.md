@@ -9,4 +9,4 @@ stm32从入门到放弃之旅
 
 3.stm32tpadoled内容：tpad按下时实现oled图画显示变换
 
-4.stm32LCD内容：ATK4.3寸屏TFTLCD的lcd点亮实验把5510驱动提取出来
+4.stm32LCD内容：ATK4.3寸屏TFTLCD的lcd点亮实验把5510驱动提取出来，自己编写出画图函数深入了解画点原理
